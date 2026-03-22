@@ -16,20 +16,9 @@ The initiative is structured as a **modular GitHub stack**, allowing multiple te
 | **Data Management** | Ingests environmental rasters and camera trap data | [`data-management`](https://github.com/cao-connectivity-lab/data-management) |
 | **Reproducibility Logs** | Tracks scenarios, git commits, and outputs for traceability | [`reproducibility-logs`](https://github.com/cao-connectivity-lab/reproducibility-logs) |
 
-## **Workflow Diagram**
-Perfect! Here’s a **color-coded, public-friendly workflow diagram** using Mermaid, plus the explanation. This will make it visually intuitive in your README:
-
 ---
 
 ## **Workflow Diagram**
-
-Ah! GitHub’s Mermaid renderer is more limited than some editors—it **doesn’t support `style` commands** or some complex syntax. We need a **simpler Mermaid diagram** that works on GitHub.
-
-Here’s a simplified, GitHub-compatible version of your workflow:
-
----
-
-## **Workflow Diagram (GitHub-friendly)**
 
 ```mermaid
 flowchart TD
